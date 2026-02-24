@@ -13,6 +13,7 @@
         <input type="text" name="password" size="30" placeholder="mat khau">
         <br>
 <%--        <button type="button">Sign in</button>--%>
+        <h4>${thongbao}</h4>
         <input type="submit" value="Sign in">
     </div>
 </form>
